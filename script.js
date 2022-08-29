@@ -1,5 +1,6 @@
+
 const userNameInput = document.querySelector(".yourName");
-  
+
   function nameUser() {
   const user = {
     name: userNameInput.value,
@@ -80,20 +81,24 @@ function renderizarMensagens(){
              </li>`;}
        
              ul.lastChild.scrollIntoView('.box-mensagens')
+
+
+             
            
     }
    
 }
 function msgInp(){
-const mensagemEnviada = document.querySelector('.recebeMsg')
+const mensagemEnviada = document.querySelector('.mensagem')
 const participante = document.querySelector('.yourName')
-
+const para = "Todos"
+const tipo = "Pública" 
 
     const novaMsg = {
-        from: participante,
-        to: "Todos",
+        from: participante.value,
+        to: para,
         text: mensagemEnviada.value,
-        type: "Pública" 
+        type: tipo
     }
 
     const promessaMsg = axios.post("https://mock-api.driven.com.br/api/v6/uol/messages", novaMsg)
