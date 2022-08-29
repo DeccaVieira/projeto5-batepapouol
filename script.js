@@ -11,9 +11,8 @@ const userNameInput = document.querySelector(".yourName");
   promessaLogin.then(entraSala);
 }
 function entraSala(){
+    window.location.href = "http://127.0.0.1:5500/index.html"; 
    
-    window.location.href = "http://127.0.0.1:5500/index.html";
-    
 }
 
 
@@ -90,7 +89,7 @@ function renderizarMensagens(){
 }
 function msgInp(){
 const mensagemEnviada = document.querySelector('.mensagem')
-const participante = document.querySelector('.yourName')
+const participante = usuario
 const para = "Todos"
 const tipo = "Pública" 
 
