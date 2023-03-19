@@ -15,7 +15,7 @@ html {
     /*backgroud color */
     --login-header-send-message: #FFFFFF;
     --login-logout: #DCDCDC;
-    --message-private: #FFDEDE;
+    --message-private: #ffcbdb;
     --background-main: #F3F3F3;
     --background-button: #E7E7E7;
 
@@ -28,10 +28,10 @@ html {
 
 body {
     width:
-        /37.5rem;/
+
         100vw;
     height:
-        /auto;/
+       
         100vh;
     font-family: 'Roboto';
     Font-style: Mixed;
@@ -91,7 +91,7 @@ body {
 header {
     background-color: var(--login-header-send-message);
     width:
-        /37.5rem;/
+      
         100vw;
     height: 8rem;
     position: fixed;
@@ -160,7 +160,7 @@ footer {
 footer input {
     position: relative;
     width:
-        /37.5rem;/
+     
         100vw;
     height: 8rem;
     border: none;
