@@ -22,7 +22,10 @@ This project was developed with the following technologies:
 
 This project was inspired by a popular chat site!
 
+<p align="center>
+<img width="460" height="300" src="images/ezgif.com-video-to-gif.gif">
 
+</p>
 
 ## How to use?
 
