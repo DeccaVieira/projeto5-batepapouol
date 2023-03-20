@@ -1,4 +1,6 @@
 # Bate Papo Uol 
+![GitHub language count](https://img.shields.io/github/languages/count/DeccaVieira/projeto5-batepapouol)
+![GitHub top language](https://img.shields.io/github/languages/top/DeccaVieira/projeto5-batepapouol)
 
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
