@@ -22,10 +22,8 @@ This project was developed with the following technologies:
 
 This project was inspired by a popular chat site!
 
-<p align="center>
-<img width="460" height="300" src="images/ezgif.com-video-to-gif.gif">
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/98783385/226222621-261a91f6-76df-4f3a-b68d-f2f7b92fd97e.gif)
 
-</p>
 
 ## How to use?
 
